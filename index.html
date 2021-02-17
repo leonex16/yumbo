@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;700&family=Open+Sans:wght@300;400;700&display=swap"
+    rel="stylesheet">
+  <title>Yumbo</title>
+  <link rel="shortcut icon" href="assets/Logo.svg" type="image/x-icon">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="manifest" href="manifest.json">
+</head>
+<body data-dark-bg>
+  <header class="navbar-container">
+    <nav class="logo-container">
+      <span class="logo-container__logo">Yumbo</span>
+    </nav>
+  </header>
+  <main class="main-container">
+    <aside class="ads-container">
+      <img class="ads-container__content"></img>
+    </aside>
+    <article>
+      <section class="info-container">
+        <h1 class="info-container__title" data-dark-txt>Encuentra el código</h1>
+        <p class="info-container__content" data-dark-txt>Ingresa el nombre y/o selecciona la sección que pertenece al producto.</p>
+      </section>
+      <section class="search-container">
+        <form class="search-container__form">
+          <div class="input-group">
+            <label for="product" class="input-group__label" data-dark-txt data-dark-bg>Producto</label>
+            <input class="input-group__input" placeholder="Pimentón" id="product" name="product" data-dark-bg></input>
+          </div>
+          <div class="input-group">
+            <label for="section" class="input-group__label" data-dark-txt data-dark-bg>Sección</label>
+            <select class="input-group__input" placeholder="Vegetales" id="section" name="section">
+              <option class="input-group__option" selected>Todas</option>
+              <option class="input-group__option">Abarrotes</option>
+              <option class="input-group__option">Carnicería</option>
+              <option class="input-group__option">Cóctel</option>
+              <option class="input-group__option">Ferretería</option>
+              <option class="input-group__option">Fiambrería</option>
+              <option class="input-group__option">Frutas y Verduras</option>
+              <option class="input-group__option">Juguetería</option>
+              <option class="input-group__option">Lácteos</option>
+              <option class="input-group__option">Mascotas</option>
+              <option class="input-group__option">Menaje</option>
+              <option class="input-group__option">Mundo-Bio</option>
+              <option class="input-group__option">Panadería</option>
+              <option class="input-group__option">Textil</option>
+            </select>
+          </div>
+          <button class="search-container__btn" type="submit">Buscar</button>
+        </form>
+        <article class="results-container">
+          <span class="loader"></span>
+          <header class="results-container__text">
+            <h2 class="results-container__title" data-dark-txt>Resultados</h2>
+            <p class="result-container__without-result" data-dark-txt>Sin Resultados D':</p>
+          </header>
+          <section class="results-container__result">
+            <template id="product-template">
+              <figure class="product-container">
+                <img src="" alt="" class="product-container__image">
+                <figcaption>
+                  <!-- <input class="" placeholder="" id="" name=""></input> -->
+                  <p class="product-container__code-label" data-dark-txt></p>
+                  <output class="product-container_output" data-dark-txt></output>
+                </figcaption>
+              </figure>
+            </template>
+          </section>
+        </article>
+        <article class="product-most-wanted">
+          <h3 class="product-most-wanted__title" data-dark-txt>Productos más buscados</h3>
+        </article>
+      </section>
+    </article>
+  </main>
+  <footer>
+    <img src="./assets/Logo.svg" alt="Leonel_Logo" class="logo">
+    <p>Leonel Espinoza &copy; 2021</p>
+  </footer>
+  <button class="switch-btn" type="button">&#x2600;</button>
+  <script src="assets/script.js"></script>
+
+</html>

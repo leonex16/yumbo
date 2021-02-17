@@ -1,0 +1,242 @@
+{
+  "products": [
+    {
+      "code": "7808744701145",
+      "name": "Zapallo Butternut",
+      "quantity": "La Unidad",
+      "section": "Mascotas",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/248525-150-150/1441298.jpg?v=636682105378100000"
+    },
+    {
+      "code": "7804645510190",
+      "name": "Zapallo Redondo (Bola 8)",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/263263-150-150/Principal-17768.jpg?v=636749444416770000"
+    },
+    {
+      "code": "7809561000510",
+      "name": "Zapallo Europeo",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/221052-150-150/1655690-1.jpg?v=636529365860300000"
+    },
+    {
+      "code": "7804629010036",
+      "name": "Zapallo Italiano",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412180-150-150/Zapallo-italiano-un.jpg?v=637469591641500000"
+    },
+    {
+      "code": "7809561000169",
+      "name": "Repollo Morado",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/300843-150-150/Repollo-morado-unid-1-373295.jpg?v=636921595666670000"
+    },
+    {
+      "code": "2090001032733",
+      "name": "Espárragos Importados",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/227590-150-150/1528108.jpg?v=636596474606570000"
+    },
+    {
+      "code": "7809561000156",
+      "name": "Repollo Crespo",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/252203-150-150/1555301.jpg?v=636698373192630000"
+    },
+    {
+      "code": "7804033000050",
+      "name": "Rábano Blanco",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/296547-150-150/Rabano-blanco-unid-1-50276987.jpg?v=636886926647900000"
+    },
+    {
+      "code": "7804604640852",
+      "name": "Pimentón Dulce ",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://www.aldi.es/content/aldi/spain/promotions/source-localenhancement/2021/2021-02/2021-02-10/promocion/9811/0/0/jcr:content/assets/imported-images/BILD_INTERNET1/47a4aef0985f0492c4257e528475.png/jcr:content/renditions/opt.592w.png.res/1612351873583/opt.592w.png"
+    },
+    {
+      "code": "7803946000898",
+      "name": "Puerro",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/181641-150-150/261179.jpg?v=636406424344000000"
+    },
+    {
+      "code": "7804608760341",
+      "name": "Pimentón Verde",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vteximg.com.br/arquivos/ids/412174-750-750/Pimiento-verde-un.jpg?v=637469591499300000"
+    },
+    {
+      "code": "7804613780877",
+      "name": "Melón Calameño",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/416219-150-150/Melon-calameño-organico-un.jpg?v=637480669590000000"
+    },
+    {
+      "code": "7804667200093",
+      "name": "Pimentón Naranjo",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://mgfruit.com/images/oranje-paprika.png?resolution=400x300?quality=100&isLogo=true"
+    },
+    {
+      "code": "7804646490545",
+      "name": "Pimentón Amarillo",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/164288-150-150/261130.jpg?v=636150036510300000"
+    },
+    {
+      "code": "7804646490545",
+      "name": "Pimentón Rojo",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vteximg.com.br/arquivos/ids/370579-750-750/Pimiento-rojo-extra.jpg?v=637424409199670000"
+    },
+    {
+      "code": "7804602170160",
+      "name": "Pepino",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412167-150-150/Pepino-ensalada-un.jpg?v=637469591428100000"
+    },
+    {
+      "code": "7804658830056",
+      "name": "Melón Tuna",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/293501-150-150/Melon-tuna-organico-unid-1-17624.jpg?v=636867342743330000"
+    },
+    {
+      "code": "7804183000016",
+      "name": "Lechuga Costina",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412164-150-150/Lechuga-costina-un.jpg?v=637469591293170000"
+    },
+    {
+      "code": "7809561000015",
+      "name": "Lechuga Escarola",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/417442-150-150/Lechuga-escarola-un.jpg?v=637486512651670000"
+    },
+    {
+      "code": "7808744701244",
+      "name": "Kale",
+      "quantity": "300 Gr",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/181624-150-150/1657265.jpg?v=636406423659730000"
+    },
+    {
+      "code": "7809561000299",
+      "name": "Espinaca",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412162-150-150/Espinaca-500-g.jpg?v=637469591272830000"
+    },
+    {
+      "code": "7803946001130",
+      "name": "Cilantro",
+      "quantity": "120 Gr",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412157-150-150/Cilantro-120-g.jpg?v=637469591220500000"
+    },
+    {
+      "code": "7804619420012",
+      "name": "Cebollin",
+      "quantity": "3 Unidades",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/252202-150-150/1555311.jpg?v=636698371205530000"
+    },
+    {
+      "code": "7756217000120",
+      "name": "Coco",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://mangarocabatidadecoco.com/wp-content/uploads/2018/05/coco.png"
+    },
+    {
+      "code": "7809642600011",
+      "name": "Coliflor",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/416085-150-150/Coliflor-sp-unid.jpg?v=637479989312200000"
+    },
+    {
+      "code": "7804611770009",
+      "name": "Brócoli",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/252201-150-150/1757310.jpg?v=636698370163830000"
+    },
+    {
+      "code": "7804153000091",
+      "name": "Beterraga",
+      "quantity": "5 Unidades",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/252204-150-150/1555303.jpg?v=636698374142030000"
+    },
+    {
+      "code": "7804667200031",
+      "name": "Berenjena",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/416118-150-150/Berenjenas-unid.jpg?v=637479989529900000"
+    },
+    {
+      "code": "7804632010108",
+      "name": "Alcachofa Americana",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://cdnx.jumpseller.com/la-huerta2/image/13024298/resize/635/480?1605833911"
+    },
+    {
+      "code": "7804632010078",
+      "name": "Alcachofa Española",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://www.serfrut.cl/wp-content/uploads/2020/05/Alcachofa-Espa%C3%B1ola.png"
+    },
+    {
+      "code": "7804646490248",
+      "name": "Acelga",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/417448-150-150/Acelga-Organica-700-g.jpg?v=637486512684470000"
+    },
+    {
+      "code": "7862117170037",
+      "name": "Piña ",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/415957-150-150/Piña-un.jpg?v=637479988438830000"
+    },
+    {
+      "code": "7804646490279",
+      "name": "Pepino Alaska",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/224585-150-150/261068-1.jpg?v=636567996447700000"
+    },
+    {
+      "code": "2090000980660",
+      "name": "Sandia",
+      "quantity": "La Unidad",
+      "section": "Frutas y Verduras",
+      "img": "https://jumbo.vtexassets.com/arquivos/ids/412552-150-150/Sandia-un.jpg?v=637469611735330000"
+    }
+  ]
+}
