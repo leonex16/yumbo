@@ -31,8 +31,8 @@
     "lang": "es-CL",
     "name": "Yumbo",
     "orientation": "natural",
-    "scope": "/",
+    "scope": "./",
     "short_name": "Yumbo",
-    "start_url": "./index.html",
+    "start_url": "./?utm_source=web_app_manifest",
     "theme_color": "#1FA02E"
   }
