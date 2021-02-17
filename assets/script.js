@@ -103,13 +103,11 @@ let switchMode = (init = 0) => {
   if(init === 0){
     if(localStorage.getItem('mode') !== 'light'){
       $modeBtn.innerHTML = sunEmoji;
-      $modeBtn.style.fontSize = '3rem';
       localStorage.setItem('mode', 'light');
       $elementDarkBg.forEach(elem => elem.classList.remove('dark-mode'));
       $elementDarkTxt.forEach(elem => elem.classList.remove('light-mode'));
     }else{
       $modeBtn.innerHTML = moonEmoji;
-      $modeBtn.style.fontSize = '2rem';
       localStorage.setItem('mode', 'dark');
       $elementDarkBg.forEach(elem => elem.classList.add('dark-mode'));
       $elementDarkTxt.forEach(elem => elem.classList.add('light-mode'));
@@ -117,13 +115,11 @@ let switchMode = (init = 0) => {
   }else{  
     if(localStorage.getItem('mode') === 'light' && init === 1){
       $modeBtn.innerHTML = sunEmoji;
-      $modeBtn.style.fontSize = '3rem';
       localStorage.setItem('mode', 'light');
       $elementDarkBg.forEach(elem => elem.classList.remove('dark-mode'));
       $elementDarkTxt.forEach(elem => elem.classList.remove('light-mode'));
     }else{
       $modeBtn.innerHTML = moonEmoji;
-      $modeBtn.style.fontSize = '2rem';
       localStorage.setItem('mode', 'dark');
       $elementDarkBg.forEach(elem => elem.classList.add('dark-mode'));
       $elementDarkTxt.forEach(elem => elem.classList.add('light-mode'));

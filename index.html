@@ -2,14 +2,22 @@
 <html lang="en">
 
 <head>
+  <title>Yumbo</title>
   <meta charset="UTF-8">
+  <meta name="description" content="Yumbo está para ayudar a los cajeros con su productividad. Facilitando los códigos más solicitados cuando el producto no lo posea.">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="language" content="spanish"> 
+  <meta name="author" content="Leonel Espinoza Sotelo">
+  <meta name="designer" content="Leonel Espinoza Sotelo">
+  <meta name="publisher" content="Leonel Espinoza Sotelo">
+  <meta property="og:type" content="website"/>
+  <meta property="og:title" content='Yumbo'/>
+  <meta property="og:description" content="Yumbo está para ayudar a los cajeros con su productividad. Facilitando los códigos más solicitados cuando el producto no lo posea."/>
+  <meta property="og:image" content="assets/Logo.svg"/>
+  <meta property="og:url" content="https://leonex16.github.io/yumbo/"/>
   <link rel="preconnect" href="https://fonts.gstatic.com">
-  <link
-    href="https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;700&family=Open+Sans:wght@300;400;700&display=swap"
-    rel="stylesheet">
-  <title>Yumbo</title>
+  <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@300;400;500;700&family=Open+Sans:wght@300;400;700&display=swap" rel="stylesheet">
   <link rel="shortcut icon" href="assets/Logo.svg" type="image/x-icon">
   <link rel="stylesheet" href="assets/style.css">
   <link rel="manifest" href="manifest.json">
@@ -21,9 +29,9 @@
     </nav>
   </header>
   <main class="main-container">
-    <aside class="ads-container">
-      <img class="ads-container__content"></img>
-    </aside>
+    <!-- <aside class="ads-container">
+      <img class="ads-container__content" src="" alt=""></img>
+    </aside> -->
     <article>
       <section class="info-container">
         <h1 class="info-container__title" data-dark-txt>Encuentra el código</h1>
@@ -33,11 +41,11 @@
         <form class="search-container__form">
           <div class="input-group">
             <label for="product" class="input-group__label" data-dark-txt data-dark-bg>Producto</label>
-            <input class="input-group__input" placeholder="Pimentón" id="product" name="product" data-dark-bg></input>
+            <input class="input-group__input" placeholder="Pimentón" id="product" name="product" data-dark-bg>
           </div>
           <div class="input-group">
             <label for="section" class="input-group__label" data-dark-txt data-dark-bg>Sección</label>
-            <select class="input-group__input" placeholder="Vegetales" id="section" name="section">
+            <select class="input-group__input" id="section" name="section">
               <option class="input-group__option" selected>Todas</option>
               <option class="input-group__option">Abarrotes</option>
               <option class="input-group__option">Carnicería</option>
@@ -67,7 +75,7 @@
               <figure class="product-container">
                 <img src="" alt="" class="product-container__image">
                 <figcaption>
-                  <!-- <input class="" placeholder="" id="" name=""></input> -->
+                  <!-- <input class="" placeholder="" id="" name=""> -->
                   <p class="product-container__code-label" data-dark-txt></p>
                   <output class="product-container_output" data-dark-txt></output>
                 </figcaption>
