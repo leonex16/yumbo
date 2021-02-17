@@ -2,9 +2,9 @@
 const CACHE_NAME = 'v1_cache_yumbo';
 let urlsToCache = [
   './',
-  '/assets/db.json',
-  '/assets/script.js',
-  '/assets/style.css',
+  './assets/db.json',
+  './assets/script.js',
+  './assets/style.css',
   './assets/Logo.svg'
 ];
 
