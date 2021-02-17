@@ -37,8 +37,8 @@
     "related_applications": [{ // Con esta opción le decimos al usuario que contamos con aplicaciones en la Play Store o iTunes
       "platform": "web"
     }],
-    "scope": "/", // Define el ámbito de navegación en el contexto de la aplicación web. Esto basicamente restringe qué paginas se pueden ver cuando se aplica el manifiesto. Si el usuario navega fuera del ámbito de la aplicación, continúa como en una web normal. 
+    "scope": "./", // Define el ámbito de navegación en el contexto de la aplicación web. Esto basicamente restringe qué paginas se pueden ver cuando se aplica el manifiesto. Si el usuario navega fuera del ámbito de la aplicación, continúa como en una web normal. 
     "short_name": "Yumbo", // Proporciona un nombre corto para la aplicación. Está destinado para su uso cuando hay poco espacio para mostrar el nombre completo de la aplicación.
-    "start_url": "./index.html", // Especifica la URL que se carga cuando el usuario lanza la aplicación desde un dispositivo. 
+    "start_url": "./?utm_source=web_app_manifest", // Especifica la URL que se carga cuando el usuario lanza la aplicación desde un dispositivo. 
     "theme_color": "#1FA02E" // Define el color por defecto para la aplicación. Esto en ocasiones afecta a como se muestra por el OS (e.g., en el lanzador de aplicaciones de Android, el color envuelve la aplicación).
   }
