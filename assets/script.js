@@ -41,7 +41,7 @@ let getProduct = (productName, section) => {
     .then(json => {
       json.products.forEach(product => {
         let regex = new RegExp(removeAccent(productName), 'gmi');
-        console.log(regex.test(removeAccent(product.name)) && (section === 'Todas' || section === 'Todas'));
+
         if (regex.test(removeAccent(product.name)) && (section === product.section || section === 'Todas')) {
           $fragment.appendChild(insertProduct(product, document.importNode($productTemplate, true)));
         };
